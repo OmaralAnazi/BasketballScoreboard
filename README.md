@@ -18,5 +18,5 @@ This solo project, titled "Basketball Scoreboard," was created as part of the Sc
 To see the scoreboard in action, clone the repository and open `index.html` in your browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://regal-paletas-443150.netlify.app/)
 
